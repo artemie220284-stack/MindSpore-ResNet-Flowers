@@ -1,0 +1,3 @@
+*.pth
+*.ckpt 
+p15/flowers/*
